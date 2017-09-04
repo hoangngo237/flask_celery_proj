@@ -1,0 +1,4 @@
+Mi kiểm tra cái file flask_proj_see_bug á.
+Hàm get_list().
+Cái result.get() hắn đang bị lỗi chi ta không hiểu, api của celery ta coi đi coi lại thì thấy không bị sai.
+Mi kiểm tra coi thử hỉ, chạy như file readme á
